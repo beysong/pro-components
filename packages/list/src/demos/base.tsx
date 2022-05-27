@@ -1,6 +1,6 @@
+import { ProList } from '@ant-design/pro-components';
+import { Button, Space, Tag } from 'antd';
 import React from 'react';
-import { Button, Tag, Space } from 'antd';
-import ProList from '@ant-design/pro-list';
 
 const dataSource = [
   {
